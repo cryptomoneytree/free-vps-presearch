@@ -7,7 +7,7 @@ Feel free submit a pull request if you know any other provider(s) or any special
 
 # The List
 
-*List inlcudes my referral links. You can use them, some of them might five you extra credit, or just search for the provider/
+*List inlcudes my referral links. You can use them, some of them might five you extra credit, or just search for the provider using Presearch :)
 
 | Provider | Offer | Link|
 | --- | --- | --- |
