@@ -19,6 +19,7 @@ Feel free submit a pull request if you know any other provider(s) or any special
 | Atlantic | <ul><li>G2.2GB cloud free for one year</li><li>They will provide trial credit time to time. So search for it before you signup.</li><li>You will get $15 for using the referral link</li></ul>| https://cloud.atlantic.net/r/h2fjt9bh |
 | Vultr | <ul><li>$100 credit that expires in 60 days</li><ul> | https://www.vultr.com/promo/try100 |
 | LiNode| <ul><li>$100 credit that expires in 60 days</li></ul> | Link coming soon |
-  | VPSServer.com | <ul><li>One VPS is free for 7 days.</li><li>Starts at $3.29 per month</li></ul> | https://www.vpsserver.com/?affcode=0320accc4fc7 |
+| VPSServer.com | <ul><li>One VPS is free for 7 days.</li><li>Starts at $3.29 per month</li></ul> | https://www.vpsserver.com/?affcode=0320accc4fc7 |
+| Vultr.com | <ul><li>$100 free credit for 14 days</li></ul> | https://www.vultr.com/?ref=8959194-8H |
 
 
